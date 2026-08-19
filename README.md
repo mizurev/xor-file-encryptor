@@ -1,3 +1,4 @@
+Use same key to unencrypt.
 <img width="100%" height="551" alt="a" src="https://github.com/user-attachments/assets/70c88ae6-5421-493c-b3fc-a6441cce3dd6" />
 
 | Before encryption | 1st encryption | 2nd encryption(unencryption) |
