@@ -1,5 +1,13 @@
-Use same key to decrypt.
+# XOR file encryptor
+
+⚠️ **Important Note: This software is designed exclusively for Windows OS and does not support Linux or macOS.**
+
+### System requirements
+* **OS:** Windows 10 / 11 (64-bit)
+
 <img width="100%" height="551" alt="a" src="https://github.com/user-attachments/assets/70c88ae6-5421-493c-b3fc-a6441cce3dd6" />
+
+Use same key to decrypt.
 
 | Before encryption | After encryption | Decrypted |
 | :---: | :---: | :---: |
