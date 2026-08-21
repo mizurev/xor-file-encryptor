@@ -4,7 +4,7 @@
 
 ### System requirements
 * **OS:** Windows 10 / 11 (64-bit)
-
+* **CPU:** Intel/AMD
 <img width="100%" height="551" alt="a" src="https://github.com/user-attachments/assets/70c88ae6-5421-493c-b3fc-a6441cce3dd6" />
 
 Use same key to decrypt.
